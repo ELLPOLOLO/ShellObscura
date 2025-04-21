@@ -1,0 +1,2 @@
+# ShellObscura
+UN OFUSCADOR XD
